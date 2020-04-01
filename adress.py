@@ -35,10 +35,10 @@ def update():
         'first': f_name_edit.get(),
         'last ': l_name_edit.get(),
         'address': address_edit.get(),
-        #'city': city_edit.get(),
-        #'zipcode': zipcode_edit.get(),
+        'city': city_edit.get(),
+        'zipcode': zipcode_edit.get(),
         
-        #'oid': record_id
+        'oid': record_id
         })
 
 
